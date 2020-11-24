@@ -8,5 +8,4 @@ urlpatterns = [
     path('', views.portfolio, name='portfolio'), #portfolio
     path('contact', views.contact, name='contact'), #contact
 ]
-act, name='contact'), #contact
-]
+
